@@ -1,4 +1,4 @@
 # 60-dias-de-programa-o
-- [] Dia 1 -
+- [x] Dia 1 - primeiro código - Olá mundo!
 - [] Dia 2 -
 - [] Dia 3 -
