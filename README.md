@@ -2,4 +2,5 @@
 - [x] Dia 1 - primeiro código - Olá mundo!
 - [x] Dia 2 - segundo código - soma de dois números
 - [x] Dia 3 - terceiro código - condicional de um número 
-- [] Dia 4 - 
+- [x] Dia 4 - laço de repetição
+- [] Dia 5 - 
