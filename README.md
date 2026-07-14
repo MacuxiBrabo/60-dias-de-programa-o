@@ -4,4 +4,5 @@
 - [x] Dia 3 - terceiro código - condicional de um número 
 - [x] Dia 4 - laço de repetição
 - [x] Dia 5 - função que eleva ao quadrado
-- [] Dia 6 - 
+- [x] Dia 6 - bloco de notas
+- [x] Dia 7 - 
