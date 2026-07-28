@@ -8,4 +8,5 @@
 - [x] Dia 7 - dicionário estático e dinamico
 - [x] Dia 8 - condicional de idade
 - [x] Dia 9 - contador de números
-- [] Dia 10 - 
+- [x] Dia 10 - gerador de senhas 
+- [] Dia 11 - 
