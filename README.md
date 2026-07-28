@@ -9,4 +9,5 @@
 - [x] Dia 8 - condicional de idade
 - [x] Dia 9 - contador de números
 - [x] Dia 10 - gerador de senhas 
-- [] Dia 11 - 
+- [x] Dia 11 - aprendi a usar a função sorted
+- [] Dia 12 - 
