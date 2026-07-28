@@ -7,4 +7,5 @@
 - [x] Dia 6 - bloco de notas
 - [x] Dia 7 - dicionário estático e dinamico
 - [x] Dia 8 - condicional de idade
-- [x] Dia 9 - 
+- [x] Dia 9 - contador de números
+- [] Dia 10 - 
