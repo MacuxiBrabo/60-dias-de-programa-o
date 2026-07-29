@@ -10,4 +10,5 @@
 - [x] Dia 9 - contador de números
 - [x] Dia 10 - gerador de senhas 
 - [x] Dia 11 - aprendi a usar a função sorted
-- [] Dia 12 - 
+- [x] Dia 12 - busca linear numa lista
+- [x] Dia 13 - 
