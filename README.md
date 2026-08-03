@@ -11,4 +11,5 @@
 - [x] Dia 10 - gerador de senhas 
 - [x] Dia 11 - aprendi a usar a função sorted
 - [x] Dia 12 - busca linear numa lista
-- [x] Dia 13 - 
+- [x] Dia 13 - função fatorial
+- [] Dia 14 - 

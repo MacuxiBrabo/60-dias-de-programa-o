@@ -8,7 +8,8 @@ def gerador_senha(parametro):
 
         comprimento = parametro
 
-        caracteris = string.ascii_letters + string.digits + string.punctuation
+        #caracteris = string.ascii_letters + string.digits + string.punctuation
+        caracteris = string.digits
         senha = ''
 
         while len(senha) != comprimento:
@@ -23,4 +24,4 @@ def gerador_senha(parametro):
 
     return None
 
-gerador_senha(8)
+gerador_senha(5)
