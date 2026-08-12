@@ -12,4 +12,5 @@
 - [x] Dia 11 - aprendi a usar a função sorted
 - [x] Dia 12 - busca linear numa lista
 - [x] Dia 13 - função fatorial
-- [] Dia 14 - 
+- [x] Dia 14 - verificador de número primo
+- [] Dia 15 - 
