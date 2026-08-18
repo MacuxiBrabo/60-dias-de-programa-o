@@ -13,4 +13,5 @@
 - [x] Dia 12 - busca linear numa lista
 - [x] Dia 13 - função fatorial
 - [x] Dia 14 - verificador de número primo
-- [] Dia 15 - 
+- [x] Dia 15 - seguência de fibonacci
+- [x] Dia 16 - 
