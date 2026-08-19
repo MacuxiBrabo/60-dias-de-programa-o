@@ -14,4 +14,5 @@
 - [x] Dia 13 - função fatorial
 - [x] Dia 14 - verificador de número primo
 - [x] Dia 15 - seguência de fibonacci
-- [x] Dia 16 - 
+- [x] Dia 16 - verificador de anagramas
+- [] Dia 17 - 
