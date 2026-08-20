@@ -15,4 +15,5 @@
 - [x] Dia 14 - verificador de número primo
 - [x] Dia 15 - seguência de fibonacci
 - [x] Dia 16 - verificador de anagramas
-- [] Dia 17 - 
+- [x] Dia 17 - verificador de palíndromos
+- [] Dia 18 - 
