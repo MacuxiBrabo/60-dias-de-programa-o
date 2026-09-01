@@ -16,4 +16,5 @@
 - [x] Dia 15 - seguência de fibonacci
 - [x] Dia 16 - verificador de anagramas
 - [x] Dia 17 - verificador de palíndromos
-- [] Dia 18 - 
+- [x] Dia 18 - contador de palavra
+- [] Dia 19 - 
