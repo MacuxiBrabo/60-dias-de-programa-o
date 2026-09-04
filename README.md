@@ -17,4 +17,5 @@
 - [x] Dia 16 - verificador de anagramas
 - [x] Dia 17 - verificador de palíndromos
 - [x] Dia 18 - contador de palavra
-- [] Dia 19 - 
+- [x] Dia 19 - calculadora de médias
+- [] Dia 20 - 
