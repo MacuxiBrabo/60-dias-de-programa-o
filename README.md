@@ -19,4 +19,5 @@
 - [x] Dia 18 - contador de palavra
 - [x] Dia 19 - calculadora de médias
 - [x] Dia 20 - matrix transposta
-- [] Dia 21 - 
+- [x] Dia 21 - conversor de moeda
+- [] Dia 22 - 
