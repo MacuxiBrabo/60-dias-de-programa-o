@@ -21,4 +21,5 @@
 - [x] Dia 20 - matrix transposta
 - [x] Dia 21 - conversor de moeda
 - [x] Dia 22 - calculadora de imc
-- [] Dia 23 - 
+- [x] Dia 23 - jogo de adivinhação
+- [] Dia 24 - 
