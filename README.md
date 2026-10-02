@@ -23,4 +23,5 @@
 - [x] Dia 22 - calculadora de imc
 - [x] Dia 23 - jogo de adivinhação
 - [x] Dia 24 - tabuada á pedido do usúario
-- [] Dia 25 - 
+- [x] Dia 25 - gerador de números aleatórios 
+- [] Dia 26 - 
